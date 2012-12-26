@@ -30,6 +30,8 @@ local.properties
 
 # Maven
 target/
+site/solrhome/
+site/data/
 
 
 #################
